@@ -402,13 +402,13 @@ logo = ("""\033[1;32m
    \033
 __________________×______________________
   
-  Owner    :  M A M U N
+  Owner     :  M A M U N
  
   Github    :  mamun026
   
-  Facebook : ﾞMood　一　Offﾞ　Stay ﾞxﾞ Alert十
+  Facebook  : ﾞMood　一　Offﾞ　Stay ﾞxﾞ Alert十
   
-  Whatsapp : 01304906886
+  Whatsapp  : 01304906886
   
   Version   : 0.0.7
 __________________×______________________\033[1;37m""")
