@@ -99,7 +99,7 @@ def banner():
 \x1b[92;1m===================================>\x1b[92;1m
 \x1b[93;1m Author       \x1b[92;1m=>      \x1b[93;1mM A M U N
 \x1b[93;1m Whatsapp     \x1b[92;1m=>      \x1b[93;1m+8801304906886
-\x1b[93;1m Facebook       \x1b[92;1m=>      \x1b[93;1mﾞMood　一　Offﾞ　Stay ﾞxﾞ Alert十
+\x1b[93;1m Facebook     \x1b[92;1m=>      \x1b[93;1mﾞMood　一　Offﾞ　Stay ﾞxﾞ Alert十
 \x1b[92;1m===================================>\x1b[92;1m
 """%(h))
 		
